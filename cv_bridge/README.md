@@ -35,7 +35,6 @@ cd /usr/lib/x86_64-linux-gnu/ && sudo ln -s libboost_python-py35.so libboost_pyt
 Install python boost as follows in ubuntu 18.04:
 ```bash
  sudo apt install -y --no-install-recommends libboost-all-dev
- cd /usr/lib/x86_64-linux-gnu
  sudo apt install libboost-python1.62.0
 ```
 
